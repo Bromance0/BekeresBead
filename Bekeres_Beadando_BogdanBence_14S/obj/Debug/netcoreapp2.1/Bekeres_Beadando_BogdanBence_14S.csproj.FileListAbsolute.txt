@@ -1,0 +1,11 @@
+C:\Users\bence\Desktop\Beadandok\C#\Bekeres_Beadando_BogdanBence_14S\Bekeres_Beadando_BogdanBence_14S\bin\Debug\netcoreapp2.1\Bekeres_Beadando_BogdanBence_14S.deps.json
+C:\Users\bence\Desktop\Beadandok\C#\Bekeres_Beadando_BogdanBence_14S\Bekeres_Beadando_BogdanBence_14S\bin\Debug\netcoreapp2.1\Bekeres_Beadando_BogdanBence_14S.runtimeconfig.json
+C:\Users\bence\Desktop\Beadandok\C#\Bekeres_Beadando_BogdanBence_14S\Bekeres_Beadando_BogdanBence_14S\bin\Debug\netcoreapp2.1\Bekeres_Beadando_BogdanBence_14S.runtimeconfig.dev.json
+C:\Users\bence\Desktop\Beadandok\C#\Bekeres_Beadando_BogdanBence_14S\Bekeres_Beadando_BogdanBence_14S\bin\Debug\netcoreapp2.1\Bekeres_Beadando_BogdanBence_14S.dll
+C:\Users\bence\Desktop\Beadandok\C#\Bekeres_Beadando_BogdanBence_14S\Bekeres_Beadando_BogdanBence_14S\bin\Debug\netcoreapp2.1\Bekeres_Beadando_BogdanBence_14S.pdb
+C:\Users\bence\Desktop\Beadandok\C#\Bekeres_Beadando_BogdanBence_14S\Bekeres_Beadando_BogdanBence_14S\obj\Debug\netcoreapp2.1\Bekeres_Beadando_BogdanBence_14S.csprojAssemblyReference.cache
+C:\Users\bence\Desktop\Beadandok\C#\Bekeres_Beadando_BogdanBence_14S\Bekeres_Beadando_BogdanBence_14S\obj\Debug\netcoreapp2.1\Bekeres_Beadando_BogdanBence_14S.csproj.CoreCompileInputs.cache
+C:\Users\bence\Desktop\Beadandok\C#\Bekeres_Beadando_BogdanBence_14S\Bekeres_Beadando_BogdanBence_14S\obj\Debug\netcoreapp2.1\Bekeres_Beadando_BogdanBence_14S.AssemblyInfoInputs.cache
+C:\Users\bence\Desktop\Beadandok\C#\Bekeres_Beadando_BogdanBence_14S\Bekeres_Beadando_BogdanBence_14S\obj\Debug\netcoreapp2.1\Bekeres_Beadando_BogdanBence_14S.AssemblyInfo.cs
+C:\Users\bence\Desktop\Beadandok\C#\Bekeres_Beadando_BogdanBence_14S\Bekeres_Beadando_BogdanBence_14S\obj\Debug\netcoreapp2.1\Bekeres_Beadando_BogdanBence_14S.dll
+C:\Users\bence\Desktop\Beadandok\C#\Bekeres_Beadando_BogdanBence_14S\Bekeres_Beadando_BogdanBence_14S\obj\Debug\netcoreapp2.1\Bekeres_Beadando_BogdanBence_14S.pdb
